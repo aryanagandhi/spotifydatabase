@@ -1,2 +1,0 @@
-# spotifydatabase
-Spotify Database
